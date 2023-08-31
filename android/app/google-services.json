@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "770339500416",
+    "project_id": "unfraudit",
+    "storage_bucket": "unfraudit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770339500416:android:6be7a16ef7ad9fb79c5165",
+        "android_client_info": {
+          "package_name": "com.socialcatfish.unfraudit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "770339500416-ahh7aipk5m0346puonp2si8689dtbhtp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFYl9fHI2QWgSxVxXkbsu28gwQgQKovWI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "770339500416-ahh7aipk5m0346puonp2si8689dtbhtp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
